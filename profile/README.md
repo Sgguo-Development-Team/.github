@@ -6,7 +6,7 @@
 - 📫 如何找到我们？:
 
 
-   [![QQ](https://img.shields.io/static/v1?label=%E8%85%BE%E8%AE%AF%20QQ&message=3175992523&color=orange&style=for-the-badge&labelColor=blue&logoColor=black&logo=Tencent%20QQ)](https://jq.qq.com/?_wv=1027&k=qSMikkdU)
+   [![QQ](https://img.shields.io/static/v1?label=%E8%85%BE%E8%AE%AF%20QQ&message=652989586&color=orange&style=for-the-badge&labelColor=blue)](https://jq.qq.com/?_wv=1027&k=qSMikkdU)[![Github](https://img.shields.io/github/followers/wopan-development-team?label=%E6%AD%A3%E5%9C%A8%E5%85%B3%E6%B3%A8%E5%BC%80%E5%8F%91%E5%B0%8F%E7%BB%84&logo=github&style=for-the-badge)](https://github.com/wopan-development-team)
 
 - Other information:
 
