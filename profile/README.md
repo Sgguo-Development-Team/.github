@@ -1,8 +1,8 @@
-### Hello！Here is WoPan Development Team's Github！ 👋
+### Hello！Here is SDT's Github！ 👋
 
 - 我们是来自中国的小型开发团队
-- 此组织所有成果均用于沃盘项目
-- 技术栈：JavaScript (ECMAScript 2015-2020), PHP 7.4, MySQL, etc.
+- 此组织所有成果均用于 SDT 相关项目
+- 主要技术栈：JavaScript (ECMAScript 2015-2020), PHP 7.4, MySQL, etc.
 - 在[货摊网](https://yangtuo.huotan.com/)捐助以支持我们的开发!
 - 📫 如何找到我们？:
 
