@@ -16,4 +16,5 @@
 
 - Our Logo:
 
-[![Logo](https://avatars.githubusercontent.com/u/109358425?s=300)](https://github.com/Sgguo-Development-Team)
+<img align="center" alt="SDT-Logo" src="https://avatars.githubusercontent.com/u/109358425?s=300">
+<p align="center">Copyright by SDT.</p>
