@@ -2,7 +2,7 @@
 
 - 我们是来自中国的小型开发团队
 - 此组织所有成果均用于 SDT 相关项目
-- 主要技术栈：JavaScript (ECMAScript 2015-2020), PHP 7.4, MySQL, etc.
+- 主要技术栈：JavaScript (ECMAScript 2015- ESNext), TypeScript, PHP 7.4, MySQL, etc.
 - 在[货摊网](https://yangtuo.huotan.com/)捐助以支持我们的开发!
 - 📫 如何找到我们？:
 
